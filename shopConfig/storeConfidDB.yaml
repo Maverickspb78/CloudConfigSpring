@@ -10,5 +10,5 @@ spring:
     password: 52669
   flyway:
     baseline-on-migrate: true
-#server:
-#  port: 8081
+server:
+ port: 8081
